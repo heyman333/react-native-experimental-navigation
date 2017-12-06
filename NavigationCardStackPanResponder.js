@@ -44,7 +44,7 @@ const RESPOND_THRESHOLD = 15;
  * For horizontal scroll views, a distance of 30 from the left of the screen is the
  * standard maximum position to start touch responsiveness.
  */
-const RESPOND_POSITION_MAX_HORIZONTAL = 30;
+const RESPOND_POSITION_MAX_HORIZONTAL = 100;
 const RESPOND_POSITION_MAX_VERTICAL = null;
 
 /**
